@@ -39,6 +39,6 @@ const tracks = {
 const groups = ['Gr.B', 'Gr.4', 'Gr.3', 'Gr.2', 'Gr.1', 'Cart', 'Formula', 'Road Car'];
 
 /** @type {import('./$types').PageServerLoad} */
-export async function load() {
+export const load = async () => {
 	return { tracks, groups };
-}
+};
