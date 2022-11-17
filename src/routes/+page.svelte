@@ -17,6 +17,10 @@
 	};
 </script>
 
+<svelte:head>
+	<title>Gran Turismo Race Generator</title>
+</svelte:head>
+
 <button
 	class="px-4 py-3 rounded bg-red-700 text-white hover:bg-red-800 text-center w-full"
 	on:click={() => generate()}>Generate</button
