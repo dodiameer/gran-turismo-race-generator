@@ -25,7 +25,8 @@ const tracks = {
 		'Trial Mountain Circuit',
 		'Watkins Glen',
 		'WeatherTech Raceway Laguna Seca',
-		'Willo Springs International Raceway'
+		'Willo Springs International Raceway',
+		'Michelin Raceway Road Atlanta'
 	],
 	asia: [
 		'Fuji International Speedway',
